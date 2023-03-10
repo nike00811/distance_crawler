@@ -1,3 +1,5 @@
+argparse
+notebook
 requests
 beautifulsoup4
 fake_useragent
