@@ -21,9 +21,9 @@ Run the following command
 python crawler.py --input_file address_list.json --output_file output.json
 ```
 
-or run on notebook `crawler.ipynb`
+Alternatively, you can simply use the provided `crawler.ipynb` file to run the code on a notebook interface
 
-##### address_list.json
+#### address_list.json
 
 ```json
 [
@@ -113,10 +113,6 @@ def crawler(addr_list, adjacency_matrix):
     for thread in threads:
         thread.join()
 ```
-
-
-
-
 
 
 
