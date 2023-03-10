@@ -1,1 +1,6 @@
-"# distance_crawler" 
+## Setup
+
+```shell
+pip install -r requirement.txt
+```
+
